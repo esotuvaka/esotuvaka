@@ -1,8 +1,8 @@
 # Hey! I'm Eric
 
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=esotuvaka&show_icons=true&theme=dark" /> 
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=esotuvaka&show_icons=true&theme=dark" /> 
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esotuvaka&layout=compact" /> 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esotuvaka&layout=compact" /> 
  
 ###
 
