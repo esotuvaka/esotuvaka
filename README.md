@@ -4,7 +4,7 @@
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esotuvaka&layout=compact" /> 
  
-### `
+###
 
 <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
